@@ -1,0 +1,16 @@
+.darkslategray {
+    color: darkslategray;
+}
+
+#purple-courier {
+    color: purple;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.my-container {
+    border-color:lightblue;
+    background-color: darkcyan;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
