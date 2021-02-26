@@ -1,16 +1,35 @@
+* { 
+    margin: 0; padding: 0; border: 0; font-size: 100%; 
+}
+
 .darkslategray {
-    color: darkslategray;
+    color: rgb(14, 29, 61);
+}
+
+header {
+    color: rgb(35, 43, 63);
+    font-family:'Roboto Condensed', sans-serif;
+    font-size: 40px;
 }
 
 #purple-courier {
-    color: purple;
+    color: rgb(61, 71, 78);
     font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+.my-container {
+    border-color: rgb(14, 29, 61);
+    border-style: solid;
+    border-width: 2px;
+    background-color: rgb(181, 215, 235);
     text-align: center;
+    margin: 10px;
+    padding: 2,5px;
 }
 
-.my-container {
-    border-color:lightblue;
-    background-color: darkcyan;
+#background {
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-}
+    background-image: url(../images/norway.jpg);
+    background-position: center;
+    padding: 30px;
+} 
