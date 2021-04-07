@@ -21,6 +21,12 @@ header {
     text-align: left;
     margin-left: 10px;
 }
+#robototwo {
+    color: rgb(61, 71, 78);
+    font-family:'Roboto Condensed', sans-serif;
+    text-align: left;
+    margin-left: 10px;
+}
 .my-container {
     border-color: rgb(255, 207, 207);
     border-style: solid;
@@ -28,7 +34,7 @@ header {
     background-color: rgb(138, 39, 0);
     text-align: center;
     margin: 10px;
-    padding: 2,5px;
+    padding: 2.5px;
 }
 
 p {
@@ -48,3 +54,7 @@ h4 {
     padding: 30px;
     color: beige;
 } 
+img {
+    width: 350;
+    height: 450;
+}
